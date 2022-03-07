@@ -23,7 +23,7 @@ li{
 }
 .navigation{
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
     width: 2rem;
     height: 2rem;
